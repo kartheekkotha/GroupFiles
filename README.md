@@ -20,6 +20,7 @@ Before using this script, ensure that you have the following:
    python file_grouping_script.py
 
 # Example 
+```
 MyFiles/
     document1.pdf
     document2.docx
@@ -37,4 +38,4 @@ MyFiles/
         image2.png
     .mp4/
         video1.mp4
-
+```
