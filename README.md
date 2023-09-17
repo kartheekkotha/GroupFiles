@@ -18,3 +18,23 @@ Before using this script, ensure that you have the following:
 
    ```bash
    python file_grouping_script.py
+
+# Example 
+MyFiles/
+    document1.pdf
+    document2.docx
+    image1.jpg
+    image2.png
+    video1.mp4
+
+MyFiles/
+    .docx/
+        document1.pdf
+        document2.docx
+    .jpg/
+        image1.jpg
+    .png/
+        image2.png
+    .mp4/
+        video1.mp4
+
